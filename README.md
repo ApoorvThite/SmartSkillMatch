@@ -1,13 +1,34 @@
 # 🔍 Smart Skill Mapper for Job Descriptions
 
-A powerful AI-driven web application that helps job seekers analyze their resumes against job descriptions to:
+**An AI-powered resume analyzer and career assistant** that helps you evaluate your skill match with any job description, uncover missing skills, get tailored learning paths, and improve your resume using GPT.
 
-- ✅ Identify missing skills
-- 🛠 Generate personalized learning resources
-- 🧠 Rewrite resume bullet points to match job requirements
-- 🧪 Generate capstone project ideas based on skill gaps
 
-Built using **Streamlit**, **OpenAI GPT**, and intelligent keyword-based parsing, this tool transforms how you prepare for job applications.
+## 🎯 Why I Built This
+
+As a CS + Economics student actively applying for data science and ML roles, I often found myself:
+- Manually comparing job descriptions with my resume,
+- Unsure which skills I lacked or should prioritize learning,
+- Rewriting bullet points repeatedly for different roles.
+
+That frustration led me to build **Smart Skill Mapper** — a tool that does all this automatically and intelligently. It's designed to help **any job seeker** answer:
+
+> “Do I match this job description?”  
+> “What should I learn next?”  
+> “How can I rewrite my resume to stand out?”
+
+---
+
+## 💡 What It Does
+
+- 📄 Analyzes your resume and job description
+- ✅ Identifies matched and missing skills (keyword-based)
+- 📊 Visualizes skill match by category
+- 📚 Suggests learning resources with time estimates
+- 🧪 Generates GPT-powered capstone project ideas
+- ✍️ Rewrites resume bullet points to align with job roles
+- 📈 Simulates match score improvement from learning new skills
+
+This project bridges the gap between *job intent* and *job readiness* — turning a static resume into a dynamic career plan.
 
 ---
 
