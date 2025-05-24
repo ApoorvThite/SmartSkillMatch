@@ -5,7 +5,7 @@
 
 ## 🎯 Why I Built This
 
-As a CS + Economics student actively applying for data science and ML roles, I often found myself:
+As a Data Science student actively applying for data science and ML roles, I often found myself:
 - Manually comparing job descriptions with my resume,
 - Unsure which skills I lacked or should prioritize learning,
 - Rewriting bullet points repeatedly for different roles.
