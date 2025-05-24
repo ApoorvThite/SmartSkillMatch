@@ -99,10 +99,60 @@ SmartSkillMapper/
 git clone https://github.com/yourusername/SmartSkillMapper.git
 cd SmartSkillMapper
 
+# Step 2: Create a Virtual Environment
+
 python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 
+# Step 3: Install Dependencies
+
+pip install -r requirements.txt
 
 
+Step 4: Add Your OpenAI API Key
+Create .streamlit/secrets.toml and add:
+
+OPENAI_API_KEY = "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 
+Step 5: Run the App
+
+streamlit run app.py
+```
+
+🌟 Future Enhancements:
+
+ ✅ Skill mastery tracking (checkboxes per skill)
+
+ 🔄 Versioned resume tracking & diff viewer
+
+ 💬 Integrated GPT chat for Q&A ("What should I learn next?")
+
+ 📤 Export resume with rewritten bullet points
+
+ 🔍 Compare two resumes side by side
+
+ 🌐 Real-time job feed via LinkedIn API or Hugging Face job datasets
+ 
+--------------------------------------------------------------------------------
+ 
+ 🙌 Credits & Acknowledgments:
+ 
+OpenAI GPT-3.5
+
+Streamlit
+
+PyMuPDF
+
+Plotly
+
+Coursera, YouTube, Microsoft Learn
+
+---------------------------------------------------------------------------------
+
+👋 Connect with the Developer:
+
+👨‍💻 Apoorv Thite
+🎓 Penn State University — Applied Data Science + Economics
+🔗 https://linkedin.com/in/apoorvthite21
+📬 https://github.com/ApoorvThite
