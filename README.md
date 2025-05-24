@@ -84,7 +84,7 @@ This project bridges the gap between *job intent* and *job readiness* — turnin
 
 | Upload + Score | Skill Breakdown | Roadmap + Projects | AI Resume Tool | Capstone Project Ideas |
 |----------------|-----------------|--------------------|----------------| -----------------------|
-| ![upload](screenshots/upload.png) | ![skills](screenshots/skill_match.png) | ![roadmap](screenshots/roadmap.png) | ![resume](screenshots/rewrite.png) | ![project](screenshots/project.png)
+| ![upload](screenshots/Upload.png) | ![skills](screenshots/Plot.png) | ![roadmap](screenshots/Roadmap+Coach.png) | ![resume](screenshots/Resume_Write.png) | ![project](screenshots/Project.png)
 
 ---
 
