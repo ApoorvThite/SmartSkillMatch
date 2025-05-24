@@ -61,9 +61,9 @@ Built using **Streamlit**, **OpenAI GPT**, and intelligent keyword-based parsing
 
 ## 📸 Screenshots
 
-| Upload + Score | Skill Breakdown | Roadmap + Projects | AI Resume Tool |
-|----------------|-----------------|--------------------|----------------|
-| ![upload](screenshots/upload.png) | ![skills](screenshots/skill_match.png) | ![roadmap](screenshots/roadmap.png) | ![resume](screenshots/rewrite.png) |
+| Upload + Score | Skill Breakdown | Roadmap + Projects | AI Resume Tool | Capstone Project Ideas |
+|----------------|-----------------|--------------------|----------------| -----------------------|
+| ![upload](screenshots/upload.png) | ![skills](screenshots/skill_match.png) | ![roadmap](screenshots/roadmap.png) | ![resume](screenshots/rewrite.png) | ![project](screenshots/project.png)
 
 ---
 
