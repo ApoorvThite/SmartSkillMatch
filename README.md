@@ -69,5 +69,40 @@ Built using **Streamlit**, **OpenAI GPT**, and intelligent keyword-based parsing
 
 ## 📁 File Structure
 
+SmartSkillMapper/
+│
+├── app.py # Main Streamlit app
+├── requirements.txt
+├── skills_taxonomy.json # Keyword taxonomy by category
+│
+├── backend/
+│ ├── matcher.py # Skill matching + match score logic
+│ ├── recommender.py # Course and roadmap generator
+│ ├── resume_parser.py # Extract text from resume PDF
+│ ├── coach.py # GPT-based personalized career advice
+│ ├── projects.py # GPT capstone project generator
+│ └── resume_rewriter.py # GPT bullet point rewriter
+│
+├── utils/
+│ └── pdf_parser.py # PDF parsing helper
+│
+└── screenshots/ # Screenshots for documentation
+
+
+---
+
+## 🛠️ Getting Started
+
+### 📦 Step 1: Clone the Repo
+
+```bash
+git clone https://github.com/yourusername/SmartSkillMapper.git
+cd SmartSkillMapper
+
+python -m venv venv
+source venv/bin/activate  # For Windows: venv\Scripts\activate
+
+
+
 
 
