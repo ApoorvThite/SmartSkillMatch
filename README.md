@@ -89,7 +89,7 @@ This project bridges the gap between *job intent* and *job readiness* — turnin
 ---
 
 ## 📁 File Structure
-
+```bash
 SmartSkillMapper/
 │
 ├── app.py # Main Streamlit app
@@ -108,7 +108,7 @@ SmartSkillMapper/
 │ └── pdf_parser.py # PDF parsing helper
 │
 └── screenshots/ # Screenshots for documentation
-
+```
 
 ---
 
