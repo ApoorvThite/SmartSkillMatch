@@ -1,0 +1,18 @@
+{
+    "Power BI": {
+      "course": "https://www.coursera.org/learn/power-bi",
+      "time_estimate": "6 hours",
+      "type": "Video"
+    },
+    "Scikit-learn": {
+      "course": "https://scikit-learn.org/stable/tutorial/index.html",
+      "time_estimate": "4 hours",
+      "type": "Docs"
+    },
+    "Docker": {
+      "course": "https://docker-curriculum.com/",
+      "time_estimate": "5 hours",
+      "type": "Text + Hands-On"
+    }
+  }
+  

@@ -1,0 +1,66 @@
+ 
+{
+  "Programming Languages": [
+    "Python", "Java", "C++", "C", "C#", "R", "Go", "Rust", "JavaScript", "TypeScript", "SQL", "Scala", "MATLAB", "Shell", "Bash"
+  ],
+  "Libraries/Frameworks": [
+    "NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-learn", "TensorFlow", "Keras", "PyTorch", "XGBoost", "LightGBM", "Statsmodels",
+    "NLTK", "spaCy", "Transformers", "OpenCV", "Dask", "Hugging Face", "Shap", "Lime", "Flask", "FastAPI", "Streamlit", "Dash", "Gradio",
+    "LangChain", "SymPy", "CatBoost", "JAX", "Plotly", "Bokeh", "PyCaret", "ONNX"
+  ],
+  "Databases & Querying": [
+    "MySQL", "PostgreSQL", "SQLite", "MongoDB", "Oracle", "Microsoft SQL Server", "Redis", "Elasticsearch", "NoSQL", "BigQuery", "Athena",
+    "Snowflake", "Presto", "DBT", "Apache Hive"
+  ],
+  "Tools": [
+    "Jupyter", "VS Code", "PyCharm", "Colab", "Excel", "Power BI", "Tableau", "Looker", "Domo", "Notion", "Git", "GitHub", "GitLab",
+    "Jira", "Confluence", "Figma", "Docker", "Kubernetes", "Makefile", "Airflow", "Apache Superset", "DVC", "Postman", "Kibana"
+  ],
+  "Machine Learning & AI": [
+    "Supervised Learning", "Unsupervised Learning", "Reinforcement Learning", "Deep Learning", "Neural Networks", "CNN", "RNN", "LSTM",
+    "Autoencoders", "Transformers", "Attention Mechanism", "Prompt Engineering", "NLP", "Computer Vision", "Transfer Learning",
+    "Model Interpretability", "MLOps", "Model Deployment", "Fine-tuning", "Hyperparameter Tuning", "Feature Engineering", "Ensemble Methods",
+    "Model Monitoring", "Bias Mitigation", "Few-shot Learning"
+  ],
+  "Cloud & DevOps": [
+    "AWS", "Azure", "Google Cloud", "Heroku", "DigitalOcean", "Cloudflare", "Netlify", "EC2", "S3", "Lambda", "ECS", "Cloud Functions",
+    "BigQuery", "Vertex AI", "SageMaker", "Azure ML Studio", "CI/CD", "GitHub Actions", "Terraform", "Docker Compose", "NGINX"
+  ],
+  "Data Engineering & Pipelines": [
+    "Apache Spark", "PySpark", "Kafka", "Airflow", "Luigi", "Kinesis", "Flume", "ETL", "ELT", "Data Wrangling", "Data Cleaning",
+    "Data Modeling", "Data Warehouse", "Lakehouse", "Parquet", "Avro", "HDFS", "Delta Lake"
+  ],
+  "APIs & Web": [
+    "REST APIs", "GraphQL", "OpenAPI", "FastAPI", "Flask", "Web Scraping", "Selenium", "BeautifulSoup", "Playwright", "OAuth",
+    "JWT Authentication"
+  ],
+  "Data Visualization": [
+    "Matplotlib", "Seaborn", "Plotly", "Bokeh", "ggplot2", "Dash", "Streamlit", "Tableau", "Power BI", "Looker", "Datawrapper", "Superset"
+  ],
+  "Statistics & Math": [
+    "Descriptive Statistics", "Inferential Statistics", "Bayesian Statistics", "Hypothesis Testing", "Probability Distributions",
+    "Linear Algebra", "Calculus", "Optimization", "Convex Optimization", "Numerical Methods", "Time Series Analysis", "AB Testing",
+    "Chi-square Test", "Regression", "ANOVA", "Clustering"
+  ],
+  "NLP & Language Models": [
+    "Tokenization", "Named Entity Recognition", "Sentiment Analysis", "Text Classification", "Topic Modeling", "Text Generation",
+    "Embeddings", "BERT", "GPT", "T5", "RoBERTa", "LLM Fine-tuning", "Vector DBs", "FAISS", "ChromaDB", "LangChain"
+  ],
+  "Big Data & Analytics Platforms": [
+    "Spark", "Hadoop", "Hive", "Presto", "Athena", "BigQuery", "Databricks", "Snowflake", "Redshift", "Data Studio"
+  ],
+  "Security & Ethics": [
+    "Data Privacy", "Differential Privacy", "GDPR", "HIPAA", "Fairness in AI", "Explainable AI", "Model Bias", "Ethical AI"
+  ],
+  "Version Control & Project Management": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "Jira", "Asana", "Agile", "Scrum", "Kanban", "Trello", "CI/CD", "Version Control"
+  ],
+  "Soft Skills": [
+    "Communication", "Teamwork", "Problem Solving", "Critical Thinking", "Leadership", "Presentation", "Collaboration", "Time Management",
+    "Public Speaking", "Stakeholder Management", "Conflict Resolution", "Adaptability", "Growth Mindset"
+  ],
+  "Certifications": [
+    "AWS Certified Data Analytics", "Google Data Engineer", "Azure AI Engineer", "TensorFlow Developer", "DataCamp Certificates",
+    "IBM Data Science", "Coursera ML Certificate", "Microsoft Certified: Data Analyst Associate", "Google Cloud Professional ML Engineer"
+  ]
+}
